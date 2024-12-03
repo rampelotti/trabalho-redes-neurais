@@ -1,0 +1,19 @@
+# Rede Neural - Trabalho de Facul
+
+Este projeto implementa uma rede neural simples utilizando um conjunto de dados de autenticação de notas bancárias. O código está dividido em três scripts principais:
+
+- **`main.py`**: Cria um gráfico que representa a topologia da rede neural.
+- **`teste.py`**: Realiza o pré-processamento dos dados (divisão, normalização e salvamento).
+- **`grafico.py`**: Treina a rede neural, exibe a acurácia e gera um relatório de classificação.
+
+---
+
+## Ordem de Execução
+
+Para garantir que tudo funcione corretamente, os scripts devem ser executados na seguinte ordem:
+
+1. **Rodar `main.py`**: Exibe a topologia da rede neural.
+2. **Rodar `teste.py`**: Pré-processa os dados e os salva em arquivos CSV.
+3. **Rodar `grafico.py`**: Treina o modelo de rede neural e exibe as métricas de desempenho.
+
+---
